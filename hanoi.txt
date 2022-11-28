@@ -1,0 +1,32 @@
+Torres de Hanoi
+* Se puede mover un solo disco por movimiento
+* Un disco mayor no puede ir arriba de uno pequeño
+* Solo se puede mover el disco que este arriba de la Torre
+
+Torre de Hanoi con 3 discos
+
+Mueva el disco 1 hasta la Torre 3
+Mueva el disco 2 hasta la Torre 2
+Mueva el disco 1 hasta la Torre 2 
+Mueva el disco 3 hasta la Torre 3
+Mueva el disco 1 hasta la Torre 1
+Mueva el disco 2 hasta la Torre 3
+Mueva el disco 1 hasta la Torre 3 
+
+Torre de Hanoi con 4 discos
+
+Mueva el disco 1 desde la Torre 1 hasta la Torre 2
+Mueva el disco 2 desde la Torre 1 hasta la Torre 3
+Mueva el disco 1 desde la Torre 2 hasta la Torre 3
+Mueva el disco 3 desde la Torre 1 hasta la Torre 2
+Mueva el disco 1 desde la Torre 3 hasta la Torre 1
+Mueva el disco 2 desde la Torre 3 hasta la Torre 2
+Mueva el disco 1 desde la Torre 1 hasta la Torre 2
+Mueva el disco 4 desde la Torre 1 hasta la Torre 3
+Mueva el disco 1 desde la Torre 2 hasta la Torre 3
+Mueva el disco 2 desde la Torre 2 hasta la Torre 1
+Mueva el disco 1 desde la Torre 3 hasta la Torre 1
+Mueva el disco 3 desde la Torre 2 hasta la Torre 3
+Mueva el disco 1 desde la Torre 1 hasta la Torre 2
+Mueva el disco 2 desde la Torre 1 hasta la Torre 3
+Mueva el disco 1 desde la Torre 2 hasta la Torre 3
